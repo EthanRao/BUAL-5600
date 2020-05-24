@@ -1,2 +1,2 @@
 # BUAL-5600
-BUAL 5600 (R)
+Predictive Modeling I
